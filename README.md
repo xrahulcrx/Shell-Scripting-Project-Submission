@@ -97,8 +97,6 @@ Handles:
 ---
 
 
----
-
 ## Security Features
 
 - PIN hidden during input (`read -s`)
