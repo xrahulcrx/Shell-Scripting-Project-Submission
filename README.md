@@ -108,6 +108,15 @@ Handles:
 
 ## 🛠️ How To Run
 
-1. Save the script as: Transaction.sh
-2. Provide execution permission: chmod +x Transaction.sh
-3. Run the script: ./Transaction.sh
+1. Save the script as: 
+```
+Transaction.sh
+```
+2. Provide execution permission: 
+```
+chmod +x Transaction.sh
+```
+3. Run the script: 
+```
+./Transaction.sh
+```
