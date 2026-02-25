@@ -24,8 +24,7 @@ Only one script file is used as per project requirement.
 
 ---
 
-<video src="ATM Transaction Shell Script Demo.mkv" width="320" height="240" controls></video>
-
+https://github.com/xrahulcrx/Shell-Scripting-Project-Submission/tree/main/demo/ATM Transaction Shell Script Demo.mkv
 ---
 ## Features Implemented
 
