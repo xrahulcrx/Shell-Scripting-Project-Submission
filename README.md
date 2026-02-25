@@ -23,9 +23,9 @@ Transaction.sh
 Only one script file is used as per project requirement.
 
 ---
-
-https://github.com/xrahulcrx/Shell-Scripting-Project-Submission/tree/main/demo/ATM_Transaction_Shell_Script_Demo.mkv
+Video: https://github.com/xrahulcrx/Shell-Scripting-Project-Submission/tree/main/demo/ATM_Transaction_Shell_Script_Demo.mkv
 ---
+
 ## Features Implemented
 
 ### 1. Customer_Details Function
