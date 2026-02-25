@@ -73,7 +73,7 @@ Customer_Details(){
     while true
     do
         read -p "Enter the $idType number for verfication : " idNumber
-        idNumber=$(echo "$idNumber" | tr 'a-z' 'A-Z')
+        [[ "${idType}" != "Aadhar" ]] && idNumber=$(echo "$idNumber" | tr 'a-z' 'A-Z')
         case "$idType" in
             Aadhar)
                 if [[ "$idNumber" =~ ^[0-9]{12}$ ]];then
